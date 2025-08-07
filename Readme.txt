@@ -24,8 +24,3 @@ Password: Test@12345
 
 
 
-Arpita
-
-http://localhost/agroCulture/index.php
-a2
-pass:a2
